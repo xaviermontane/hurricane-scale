@@ -1,12 +1,8 @@
 """
 -------------------------------------------------------------------------------
 Name:		hurricane-scale.py
-Purpose:	This program is based in the Saffir-Simpson hurricane scale.
-            Type in your estimated wind speeds to identify a hurricane and its magnitude.
-
 Author:		Montane.X
-
-Created:	05/02/2022
+Created:	            05/02/2022
 ------------------------------------------------------------------------------
 """
 from tabulate import tabulate
