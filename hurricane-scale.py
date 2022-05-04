@@ -39,9 +39,6 @@ while unit > 3:
 # Function that converts the speed input into the according unit of measurement
 
 
-speed = convert()
-
-
 def category():
     if speed >= 64 and speed <= 82 and unit == 1:
         print("\nCategory 1 - Very Dangerous - Some damage expected.")
